@@ -9,5 +9,5 @@ func (b *ChickenBurger) Name() string {
 }
 
 func (b *ChickenBurger) Price() float32 {
-	return 50.5
+	return 5.5
 }
